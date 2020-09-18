@@ -97,4 +97,7 @@
  * [2019-12-10 Update]
  *  - Added Clone() method to JSONNode to allow cloning of a whole node tree.
  *
+ * [2020-9-18 Update]
+ *  - Added support for Unity Package Manager
+ *
  */
