@@ -1,0 +1,17 @@
+{
+	"name": "com.bunny83.simplejson",
+	"version": "2019.3.25",
+	"displayName": "SimpleJSON",
+	"description": "SimpleJSON for Unity",
+	"unity": "",
+	"keywords": [
+		"SimpleJSON",
+		"JSON"
+	],
+	"type": "Utility",
+	"author": {
+		"name": "Bunny83",
+		"email": "noidea@noidea.com",
+		"url": "https://github.com/Bunny83/SimpleJSON"
+	}
+}
